@@ -8,6 +8,7 @@ namespace server
         public static void Analyze(byte[] bPacket, Socket s)
         {
             if (s == null)
+                return;
 
             if (bPacket.Length < 1)
                 return;
