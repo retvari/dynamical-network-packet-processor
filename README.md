@@ -1,4 +1,4 @@
 Dynamical packet processor
 ==================================
 
-Dynamical packet processing is allows you to identify, decode and run the specified method which is assigned to the packet, without a switch.
+Dynamical packet processor allows you to identify and associate the given packet to the specified function.
